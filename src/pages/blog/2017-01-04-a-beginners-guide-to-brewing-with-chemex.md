@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-path: /brewing-chemex
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+path: /soldering-my-first-keyboard
+title: Soldering my first keyboard
+date: 2018-01-19T19:04:10-08:00
+description: "The first task I set for myself in 2018 was to solder my own custom keyboard. Typing this post on the keyboard now, I can say this task was a massive success. \U0001F60D⌨"
 ---
 ![chemex](/img/chemex.jpg)
 
