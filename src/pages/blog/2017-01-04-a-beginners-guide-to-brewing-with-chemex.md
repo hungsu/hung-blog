@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /soldering-my-first-keyboard
 title: Soldering my first keyboard
-date: 2018-01-15T19:04:10-08:00
+date: 2018-01-16T03:04:10.000Z
 description: "The first task I set for myself in 2018 was to solder my own custom keyboard. Typing this post on the keyboard now, I can say this task was a massive success. \U0001F60D⌨"
 ---
 # Why solder my own keyboard?
@@ -29,6 +29,8 @@ Ordered keyboard long ago
 
 Went to keyboard workshop
 
+Made QMK firmware
+
 # Next steps
 
 As much as I enjoy this keyboard, I still have not achieved my vision of a perfect keyboard. So what's wrong with it?
@@ -42,7 +44,3 @@ I find it hard to read the legends on this one and the mismatched heights are an
 ## Pressing the keys feels slightly scratchy.
 
 This can be solved by lubricating the switches and stabilisers with industrial lubricant - an IMMENSELY time consuming exercise. 
-
-## It's not portable
-
-Datamancer
