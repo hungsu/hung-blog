@@ -2,12 +2,21 @@
 templateKey: blog-post
 path: /soldering-my-first-keyboard
 title: Soldering my first keyboard
-date: 2018-01-19T19:04:10-08:00
+date: 2018-01-20T03:04:10.000Z
 description: "The first task I set for myself in 2018 was to solder my own custom keyboard. Typing this post on the keyboard now, I can say this task was a massive success. \U0001F60D⌨"
 ---
-![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+
+But why?
+My first "weird" keyboard was this
+
+![Wolf Claw](/img/wolfclaw.jpg)
+
+
+
+Ordered keyboard long ago
+
+Went to keyboard workshop
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
