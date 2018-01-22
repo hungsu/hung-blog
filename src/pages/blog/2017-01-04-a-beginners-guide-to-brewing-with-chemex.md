@@ -41,6 +41,6 @@ I find it hard to read the legends on this one and the mismatched heights are an
 
 ![MiTo DSA keycaps](/img/md-9678_20151105105359_83ce8bc132116eb3.jpg)
 
-## Pressing the keys feels slightly scratchy.
+## Pressing the keys feels slightly rattly or scratchy.
 
-This can be solved by lubricating the switches and stabilisers with industrial lubricant - an IMMENSELY time consuming exercise. 
+This can be solved by lubricating the switches and stabilisers with industrial lubricant - an IMMENSELY time consuming exercise. I've heard people also talk about "snipping" stabilisers, and upgrading them to "screw-in stabilisers". I don't know what this means but if itmakes pressing my Spacebar/Shift/Enter nicer, I'll do it.
