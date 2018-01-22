@@ -15,8 +15,31 @@ Weird as it looks, I found it incredibly comfortable to use - the giant vertical
 
 ![Filco Majestouch Ninja](/img/filco_majestouch_ninja_uk_large.jpg)
 
-I deliberately chose a keyboard with the legend printed on the front, with the thought that I would use the keyboard forever so the legend would last forever. Boy I was wrong about that.
+This is a mechanical keyboard with NKRO - that is, you could press any number of keys and it would know what you pressed. In addition, I deliberately chose a keyboard with the legend printed on the front, with the thought that I would use the keyboard forever so the legend would last forever. Boy I was wrong about that.
+
+I learned about the idea of "endgame". One keyboard that I would never want to replace, and keep until my dying day.
+
+Anne Pro
+
+I 
+
+
+
+Wasted absurd amount of hours following group buys, even bought and sold a iGK64
 
 Ordered keyboard long ago
 
 Went to keyboard workshop
+
+# Next steps
+
+As much as I enjoy this keyboard, I still have not achieved my vision of a perfect keyboard. So what's wrong with it?
+
+## Keycaps look goofy. 
+I find it hard to read the legends on this one and the mismatched heights are annoying me a lot. So I'd be looking to buy a replacement set of keycaps that will last a long time. Something like [this](https://massdrop-s3.imgix.net/product-images/mito-dsa-sci-fi/MD-9678_20151105105359_83ce8bc132116eb3.jpg?auto=format&fm=jpg&fit=max&w=1300&h=812&dpr=1.5&q=56)
+![Mito DSA keycaps](/img/filco_majestouch_ninja_uk_large.jpg)
+
+## Pressing the keys feels slightly scratchy. 
+This can be solved by lubricating the switches and stabilisers with industrial lubricant - an IMMENSELY time consuming exercise. 
+## It's not portable
+Datamancer
