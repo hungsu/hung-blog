@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /soldering-my-first-keyboard
 title: Soldering my first keyboard
-date: 2018-01-20T03:04:10.000Z
+date: 2018-01-15T19:04:10-08:00
 description: "The first task I set for myself in 2018 was to solder my own custom keyboard. Typing this post on the keyboard now, I can say this task was a massive success. \U0001F60D⌨"
 ---
 # Why solder my own keyboard?
