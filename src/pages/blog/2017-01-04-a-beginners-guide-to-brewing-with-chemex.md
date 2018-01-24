@@ -11,7 +11,9 @@ I've used many keyboard over the years, each one bought usually to deal with the
 
 ![Wolf Claw](/img/wolfclaw.jpg)
 
-Weird as it looks, I found it incredibly comfortable to use - the giant vertical space bar on the left made jumping in FPS games easy, the curved number row made weapon selection easy, and in general was a fantastic FPS gaming keyboard. Except for one problem. When playing games, I could not press Shift, A, W, and R all at the same time. Or more specifically, if I was running diagonally in Counter Strike, I could not reload my gun. That frustration led me to buy this in 2011:
+Weird as it looks, I found it incredibly comfortable to use - the giant vertical space bar on the left made jumping in FPS games easy, the curved number row made weapon selection easy, and in general was a fantastic FPS gaming keyboard. Except for one problem. When playing games, I could not press Shift, A, W, and R all at the same time. Or more specifically, if I was running diagonally in Counter Strike, I could not reload my gun. That frustration led me to start building a list of requirements in my dream keyboard.
+
+## 1. Must have NKRO
 
 ![Filco Majestouch Ninja](/img/filco_majestouch_ninja_black_us_large.jpg)
 
@@ -19,9 +21,29 @@ This is a mechanical keyboard with NKRO - that is, you could press any number of
 
 I learned about the idea of "endgame". One keyboard that I would never want to replace, and keep until my dying day.
 
-Anne Pro
+## 2. Must be quiet
 
-I 
+
+## 3. Must not have input lag
+
+![Logitech K810](/img/logitech k810.jpg)
+
+## 4. Must be programmable
+
+iGK64
+
+## 5. Should look fantastic.
+
+
+So with all those requirements, it was time for me to 
+
+# Building the dream keyboard
+
+## Planning
+
+## Assembly
+
+## Programming
 
 Wasted absurd amount of hours following group buys, even bought and sold a iGK64
 
@@ -35,7 +57,7 @@ Made QMK firmware
 
 As much as I enjoy this keyboard, I still have not achieved my vision of a perfect keyboard. So what's wrong with it?
 
-## Keycaps look cheap and goofy.
+## My keycaps look cheap and goofy.
 
 I find it hard to read the legends on this one and the mismatched heights are annoying me a lot. So I'd be looking to buy a replacement set of keycaps that will last a long time. Something like this:
 
