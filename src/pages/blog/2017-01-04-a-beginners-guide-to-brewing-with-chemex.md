@@ -25,7 +25,11 @@ My first mechanical keyboard led me to discover an overwhelming problem with mec
 
 ## 3. Must not have input lag
 
+In my zeal to find a keyboard that made no noise, I found this rather lovely looking keyboard.
+
 ![Logitech K810](/img/logitech k810.jpg)
+
+It seemed almost perfect - it looked great, it was quiet. But I'm an avid gamer, and quickly found it had a slight delay, which was enough to cause me to make mistakes in games. With any other keyboard, I could press a letter then click with my mouse, and be sure the mouse click would be received after the keypress. But with this keyboard, all too often I would press a key, click my mouse, and find that the game received the keypress AFTER the mouse click. Completely unacceptable. This keyboard is now back in its box in my wardrobe.
 
 ## 4. Must be programmable
 
@@ -58,8 +62,6 @@ Went to keyboard workshop
 Made QMK firmware with qmkeyboard.cn
 
 ![Layout builder on qmkeyboard.cn](/img/firefox_2018-02-12_08-00-51.png)
-
-
 
 Now that I had made some firmware, I had to flash the keyboard with it. This took more Googling than I care to admit, but in the end it required me to do the following:
 
