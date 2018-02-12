@@ -54,13 +54,17 @@ Went to keyboard workshop
 
 Made QMK firmware with qmkeyboard.cn
 
+![Layout builder on qmkeyboard.cn](/img/firefox_2018-02-12_08-00-51.png)
+
+
+
 Now that I had made some firmware, I had to flash the keyboard with it. This took more Googling than I care to admit, but in the end it required me to do the following:
 
 1. Download and install QMK Toolkit
 2. Unplug my keyboard, press and hold Spacebar+B while plugging it in again to start it in bootloader mode
 3. Open my firmware in QMK Toolkit, then hit Flash
 
-![QMK Toolkit, after successfully flashing my firmware](/img/qmk_toolbox_2018-02-12_07-56-35.png)
+![QMK Toolbox, after successfully flashing my new firmware](/img/qmk_toolbox_2018-02-12_07-56-35.png)
 
 # Next steps
 
