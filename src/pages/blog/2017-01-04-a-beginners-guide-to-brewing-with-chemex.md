@@ -33,7 +33,11 @@ It seemed almost perfect - it looked great, it was quiet. But I'm an avid gamer,
 
 ## 4. Must be programmable
 
-iGK64
+I thought I had found my dream keyboard, the iGK64.
+
+![iGK64](/img/img_20171107_233321.jpg)
+
+
 
 ## 5. Should look fantastic.
 
