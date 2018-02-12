@@ -11,20 +11,17 @@ I've used many keyboard over the years, each one bought usually to deal with the
 
 ![Wolf Claw](/img/wolfclaw.jpg)
 
-Weird as it looks, I found it incredibly comfortable to use - the giant vertical space bar on the left made jumping in FPS games easy, the curved number row made weapon selection easy, and in general was a fantastic FPS gaming keyboard. Except for one problem. When playing games, I could not press Shift, A, W, and R all at the same time. Or more specifically, if I was running diagonally in Counter Strike, I could not reload my gun. That frustration led me to start building a list of requirements in my dream keyboard.
+Weird as it looks, I found it incredibly comfortable to use - the giant vertical space bar on the left made jumping in FPS games easy, the curved number row made weapon selection easy, and in general was a fantastic FPS gaming keyboard. Except for one problem. When playing games, I could not press Shift, A, W, and R all at the same time. Or more specifically, if I was running diagonally in Counter Strike, I could not reload my gun. That frustration led me to start building a list of requirements in my dream keyboard. One keyboard that I would never want to replace, and keep until my dying day.
 
 ## 1. Must have NKRO
 
 ![Filco Majestouch Ninja](/img/filco_majestouch_ninja_black_us_large.jpg)
 
-This is a mechanical keyboard with NKRO - that is, you could press any number of keys and it would know what you pressed. In addition, I deliberately chose a keyboard with the legend printed on the front, with the thought that I would use the keyboard forever so the legend would last forever. Boy I was wrong about that.
-
-I learned about the idea of "endgame". One keyboard that I would never want to replace, and keep until my dying day.
+This is a mechanical keyboard with NKRO - that is, you could press any number of keys and it would know what you pressed. In addition, I deliberately chose a keyboard with the legend printed on the front, with the thought that I would use the keyboard forever so the legend would last forever. Boy I was wrong about that. The legends did indeed last, but looking at them was frustrating enough to drive me to sell this keyboard. That, and the next problem:
 
 ## 2. Must be quiet
 
-Anne Pro
-People complained on conference calls
+My first mechanical keyboard led me to discover an overwhelming problem with mechanical keyboards - nearly all of them are loud. I received complaints from colleagues and coworkers about the noise almost immediately, which was not acceptable for me in a supposedly perfect keyboard.
 
 ## 3. Must not have input lag
 
@@ -36,7 +33,13 @@ iGK64
 
 ## 5. Should look fantastic.
 
-So with all those requirements, it was time for me to 
+Some time around 2010 I discovered online photos of people's amazing office designs. I've paid close attention to people's clever ideas in those setups since then. But in particular, I was struck by this design:
+
+![Wood and leather office](/img/wood and leather.jpg)
+
+In particular, the use of two primary materials - black leather, and dark wood. I decided I wanted the same for myself, but that I'd improve on this design by having a wooden keyboard atop a black leather desk mat.
+
+So with all those requirements, it was time for me to find a keyboard that could actually meet them. As it turns out, there is no off the shelf keyboard that can do all of 
 
 # Building the dream keyboard
 
