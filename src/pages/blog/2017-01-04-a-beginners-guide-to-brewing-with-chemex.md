@@ -27,7 +27,7 @@ My first mechanical keyboard led me to discover an overwhelming problem with mec
 
 In my zeal to find a keyboard that made no noise, I found this rather lovely looking keyboard.
 
-![Logitech K810](/img/logitech k810.jpg)
+![Logitech K810](/img/logitech_k810.jpg)
 
 It seemed almost perfect - it looked great, it was quiet. But I'm an avid gamer, and quickly found it had a slight delay, which was enough to cause me to make mistakes in games. With any other keyboard, I could press a letter then click with my mouse, and be sure the mouse click would be received after the keypress. But with this keyboard, all too often I would press a key, click my mouse, and find that the game received the keypress AFTER the mouse click. Completely unacceptable. This keyboard is now back in its box in my wardrobe.
 
@@ -43,7 +43,7 @@ I thought I had found my dream keyboard, the iGK64.
 
 Some time around 2010 I discovered online photos of people's amazing office designs. I've paid close attention to people's clever ideas in those setups since then. But in particular, I was struck by this design:
 
-![Wood and leather office](/img/wood and leather.jpg)
+![Wood and leather office](/img/wood_and_leather.jpg)
 
 In particular, the use of two primary materials - black leather, and dark wood. I decided I wanted the same for myself, but that I'd improve on this design by having a wooden keyboard atop a black leather desk mat.
 
